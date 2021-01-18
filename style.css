@@ -51,3 +51,10 @@ body {
     cursor: pointer;
     background-color: chartreuse;
 }
+
+@media (max-width: 500px) {
+    .container {
+        width: 500px;
+    }
+}
+
